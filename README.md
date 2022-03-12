@@ -4,7 +4,7 @@
     $ pkg install python
     $ pip install requests
     $ pip install futures
-    $ git clone https://github.com/SetaGanz/ig
-    $ cd ig
+    $ git clone https://github.com/SetaGanz/crack
+    $ cd crack
     $ git pull
     $ python Prem.py
